@@ -1,7 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: AKKOC
+title: Enver | A blog website
+description: Mehmet Enver Akkoc's blog website.
 tags:
   - blog
   - template
@@ -16,9 +15,7 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+email: m.enver.akkoc@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
