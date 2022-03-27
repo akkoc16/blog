@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="M.Enver Akkoc" width="200">
+<img class="img-rounded" src="/assets/img/uploads/gazrs.JPG" alt="M.Enver Akkoc" width="200">
 
 # About
 

@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/gazrs.JPG
 name: mehmetenverakkoc
 display_name: M.Enver Akkoc
 position: DevOps Engineer
