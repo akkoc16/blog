@@ -101,7 +101,6 @@ Putting it all together, building on top of Kubernetes's application-oriented ab
 
 Efficiency can be measured by the ratio of the useful work performed by a machine or process to total amount of energy spent doing so. When discussing efficiency it's often helpful to think of both the cost of running a server and the human cost required to manage it.
 
-<em>References</em>
+<strong><em>References</em></strong>
 
-* https://medium.com/r/?url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fkubernetes-up-and%2F9781492046523%2F
-* https://medium.com/r/?url=https%3A%2F%2Fwww.opsramp.com%2Fguides%2Fwhy-kubernetes%2Finfrastructure-as-code%2F
+* <em>https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/</em>
