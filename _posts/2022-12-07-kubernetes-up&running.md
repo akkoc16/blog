@@ -4,10 +4,8 @@ layout: post
 title: Kubernetes Up & Running (Chapter-1)
 subtitle: 'Kubernetes'
 description: >-
-image: >- 
-  https://cdn-images-1.medium.com/max/1000/1*GpOEiUv3jWK63rViVv57-A.jpeg
-optimized_image: >-
-  https://cdn-images-1.medium.com/max/1000/1*GpOEiUv3jWK63rViVv57-A.jpeg
+image: /assets/img/uploads/kubernetes.jpg
+optimized_image: /assets/img/uploads/kubernetes.jpg
 category: tech
 tags:
   - kubernetes
