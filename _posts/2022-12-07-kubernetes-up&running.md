@@ -1,5 +1,5 @@
 ---
-date: 2022-12-07 10:00:00
+date: 2022-07-12 10:00:00
 layout: post
 title: Kubernetes Up & Running (Chapter-1)
 subtitle: 'Kubernetes'
